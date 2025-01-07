@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.hero-section {
+    background-color: #0ea6b4;
+    padding: 50px 0;
+}
+
+footer {
+    background-color: #19f3c0;
+    padding: 20px 0;
+}
